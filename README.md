@@ -1,6 +1,7 @@
 # QR Code Generator
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 A colorful terminal-based tool to create QR codes from URLs or text input. Includes input validation and GUI-based file saving. Built using Python and works on Windows, Linux, and macOS.
 
 ## Features
